@@ -8,9 +8,9 @@ implementationOfNeobisTasks
 
 Week1
 
--solved ps
+* solved ps
 
--learned using git command line
+* learned using git command line
 
 ```java
 
