@@ -7,6 +7,11 @@
 #Study paln:
 
 Week1
+
+-solved ps
+
++learned using git command line
+
 ```
 
 @Service
@@ -19,8 +24,7 @@ public class OrderDetailServiceImpl implements OrderDetailService {
     private final AddressService addressService;
 
 ```
--solved ps
-+learned using git command line
+
 
 
 
