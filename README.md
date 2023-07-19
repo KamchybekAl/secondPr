@@ -12,7 +12,7 @@ Week1
 
 +learned using git command line
 
-```
+```java
 
 @Service
 @RequiredArgsConstructor
