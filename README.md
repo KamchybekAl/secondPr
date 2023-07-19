@@ -7,7 +7,7 @@
 #Study paln:
 Week1
 -solved ps
--learned using git command line
++learned using git command line
 
 
 
